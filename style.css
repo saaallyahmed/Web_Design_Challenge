@@ -1,0 +1,17 @@
+body {
+    background-color: #3cb371;
+}
+
+.bodywhite {
+    background-color: white;
+}
+
+#floated {
+    float: left
+}
+
+nav{
+    background-color: white;
+    padding:0;
+    margin-left:0px;
+}
